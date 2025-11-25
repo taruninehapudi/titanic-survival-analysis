@@ -29,9 +29,10 @@ Files in This Repository
 
 Dataset Source
 
-• Seaborn built-in dataset: “titanic”
-• Automatically loads inside the notebook
-
+• This repository includes a titanic.csv dataset file
+• The notebook uses the seaborn Titanic dataset by default
+• The CSV is provided only for reference or alternative usage
+• No path change is required because seaborn loads the dataset automatically
 Key Insights
 
 • Females had a significantly higher survival rate
